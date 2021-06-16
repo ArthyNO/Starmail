@@ -1,0 +1,13 @@
+# Modmail thread #3 with ami. 𒀭#5655 (348039036084027393) started at 2021-05-26 15:35:33. All times are in UTC+0.
+
+[2021-05-26 15:35:33] [BOT] ACCOUNT AGE **3 years, 9 months**, ID **348039036084027393**
+NICKNAME **ami. 𒀭**, JOINED **4 months, 1 week** ago
+
+This user has **2** previous modmail threads. Use `!logs` to see them.
+────────────────
+[2021-05-26 15:35:33] [FROM USER] [ami. 𒀭#5655] jpki
+[2021-05-26 15:35:34] [BOT TO USER] Thank you for your message! Our mod team will reply to you here as soon as possible.
+[2021-05-26 15:35:40] [CHAT] [ami. 𒀭#5655] okay
+[2021-05-26 15:35:42] [COMMAND] [ami. 𒀭#5655] !c
+[2021-05-26 15:35:49] [COMMAND] [ami. 𒀭#5655] !close
+[2021-05-26 15:35:49] [BOT] Closing thread...
